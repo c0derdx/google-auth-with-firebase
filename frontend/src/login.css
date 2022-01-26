@@ -1,0 +1,24 @@
+.main__container {
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+
+button {
+    padding: 20px;
+    outline: none;
+    background-color: rgb(32, 32, 32);
+    color: white;
+    font: 16px sans-serif;
+    border: none;
+    border-radius: 5px;
+}
